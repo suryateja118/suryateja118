@@ -4,7 +4,7 @@
 **suryateja118/suryateja118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on ...our green 🌎 
 - 🌱 I’m currently learning ...(still learning) 
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...I'm learning so thank you for your support....
--->
+
